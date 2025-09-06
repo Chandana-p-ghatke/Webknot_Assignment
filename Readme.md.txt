@@ -1,0 +1,3 @@
+Well, from this project i've learnt like how the backend operations work, like how a event can be managed efficiently and also about the things like how backend operation allows students to register for and attend events, as well as provide feedback and all.
+With the help of Anaconda navigator(Spyder,Anaconda prompt), Chatgpt, draw.io,  Python and Flask for backend API development, with SQLite as the database i've completed this assignment.
+To be honest i really enjoyed this learning journey, it was different from all other assignment. I would be much more happier to work as Webknight. 
